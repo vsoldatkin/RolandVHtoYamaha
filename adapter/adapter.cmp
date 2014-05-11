@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2014-04-19 BZR 4810)-product   date = Sat 10 May 2014 04:18:05 PM PDT
+
+BeginCmp
+TimeStamp = /534989AC;
+Reference = K1;
+ValeurCmp = To VHH;
+IdModule  = pin_arrays:pin_array_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /534989BB;
+Reference = K2;
+ValeurCmp = To DTX;
+IdModule  = pin_arrays:pin_array_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /536EB008;
+Reference = P0;
+ValeurCmp = CONN_1;
+IdModule  = pin_arrays:pin_array_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536E9597;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = pin_arrays:pin_array_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536E95AB;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = pin_arrays:pin_array_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536E95BF;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = pin_arrays:pin_array_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536E95D3;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = pin_arrays:pin_array_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /536E9582;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = pin_arrays:pin_array_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349873D;
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = res2:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349872E;
+Reference = R2;
+ValeurCmp = 100k;
+IdModule  = res2:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53498552;
+Reference = R3;
+ValeurCmp = 47k;
+IdModule  = res2:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53498561;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = res2:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53498543;
+Reference = R5;
+ValeurCmp = 150k;
+IdModule  = res2:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53498779;
+Reference = RV1;
+ValeurCmp = 100k;
+IdModule  = pots:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349876A;
+Reference = RV2;
+ValeurCmp = 100k;
+IdModule  = pots:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349875B;
+Reference = RV3;
+ValeurCmp = 100k;
+IdModule  = pots:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = /5349874C;
+Reference = RV4;
+ValeurCmp = 100k;
+IdModule  = pots:Potentiometer_Bourns_3296W_3-8Zoll_Inline_ScrewUp;
+EndCmp
+
+BeginCmp
+TimeStamp = /53498312;
+Reference = U1;
+ValeurCmp = LM339;
+IdModule  = socket_dip:DIP-14__300;
+EndCmp
+
+EndListe
