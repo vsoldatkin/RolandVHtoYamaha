@@ -28,7 +28,7 @@ HH65 sequentially connects drum modules's input to the ground via the set of res
 Drum module supplies power to the scheme via the TIP terminal. It appears that the supplied voltage varies depending on the module. Adapter should work with both +3.3V and +5V power levels.
 
 ## Tuning
-Adapter was designed to be flexible. Four potentiometers RV1, RV2, RV3, RV4 adjusts reference voltage levels which allows the comparator to gradually connect R3, R4, R5 and finally short the module's input to ground.
+Adapter was designed to be flexible. Four potentiometers RV1, RV2, RV3, RV4 adjust reference voltage levels which allows the comparator to gradually connect R3, R4, R5 and finally short the module's input to ground.
 
 To tune the adapter one simply need to adjust the potentiometers so the voltage levels on a debug pins are like this: V5 > V4 > V3 > V2 > V1 > V5low. Where V5 is the voltage on the pin P5 when the hi-hat controller is fully depressed, and V5low is the voltage on P5 when the controller is fully pressed. Each interval (e.g. between V5 and V4, V4 and V3, etc.) should be roughly the same. In most cases this should be enough. 
 
