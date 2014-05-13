@@ -11,7 +11,7 @@ This KiCad project represents a simple adapter which allows you to connect Rolan
 |**VH-12**|            |       |       |       |       |
 |**VH-13**|      OK    |       |       |       |       |
 
-Note: I haven't produced a PCB which is inculded here yet. So I can't say if it is OK for production.
+Note: I haven't produced a PCB which is included here yet. So I can't say if it is OK for production.
 
 ## Operation principles
 
